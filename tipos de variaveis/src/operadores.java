@@ -36,6 +36,9 @@ public class operadores{
     if (cond && cond1){
         System.out.println("false");
     }
+    if (cond1 && (7>3)){
+        System.out.println("verdadeira haha");
+    }
      System.out.println("deu ruim");
        
     }
